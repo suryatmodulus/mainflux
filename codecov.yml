@@ -1,0 +1,3 @@
+ignore:
+  - "**/metrics.go
+  - "**/logging.go
